@@ -1,0 +1,30 @@
+PODS:
+  - Nimble (11.2.1)
+  - Quick (6.1.0)
+  - SDWebImage (5.15.4):
+    - SDWebImage/Core (= 5.15.4)
+  - SDWebImage/Core (5.15.4)
+  - Swinject (2.8.3)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick
+  - SDWebImage
+  - Swinject (= 2.8.3)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+    - SDWebImage
+    - Swinject
+
+SPEC CHECKSUMS:
+  Nimble: 516ac503a0fafaa8e41dbb4a70a61be421fa893a
+  Quick: 6676ffb409bf04abba2ff23902af2407bfc6ac90
+  SDWebImage: 1c39de67663e5eebb2f41324d5d580eeea12dd4c
+  Swinject: 893c9a543000ac2f10ee4cbaf0933c6992c935d5
+
+PODFILE CHECKSUM: f6fae8714c46a654a36fe7d4da5dda6400fdff70
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+module Pods_PhotoList_PhotoListUITests {
+  umbrella header "Pods-PhotoList-PhotoListUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

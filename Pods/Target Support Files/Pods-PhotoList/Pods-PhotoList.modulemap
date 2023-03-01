@@ -1,0 +1,6 @@
+module Pods_PhotoList {
+  umbrella header "Pods-PhotoList-umbrella.h"
+
+  export *
+  module * { export * }
+}
